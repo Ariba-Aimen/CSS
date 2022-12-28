@@ -1,0 +1,24 @@
+.headings {
+    color: rgb(224, 34, 34);
+}
+#external {
+   text-decoration: underline;
+}
+
+#List{
+   letter-spacing: 5px;
+}
+.stroked{
+   text-decoration: line-through;
+   font-weight: bold;
+}
+.highlight  {
+   background: yellow;
+   font-weight: bold;
+}
+a {
+    text-decoration: none;
+    font-style: italic;
+    background: yellow;
+    color: red;
+}
